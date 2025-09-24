@@ -1,0 +1,7 @@
+name: "Hoang Khuyen Vo Website" 
+output_dir = "."
+
+output:
+  html_document: 
+    theme: flatly 
+    toc: true 
